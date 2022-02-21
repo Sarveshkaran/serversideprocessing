@@ -142,7 +142,7 @@ html Code:-
 
 ## OUTPUT:
 
-![](sk46)
+![](sk46.png)
 
 
 ## Result:
